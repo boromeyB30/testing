@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 oyr shek you can merge it
+=======
+hello idol
+>>>>>>> 45fffc1 (update)
