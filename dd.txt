@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 oyr shek you can merge it
 =======
 hello idol
@@ -7,3 +8,6 @@ hello idol
 =======
 hello idol
 >>>>>>> main
+=======
+hello idol
+>>>>>>> 45fffc1 (update)
